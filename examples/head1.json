@@ -1,0 +1,12 @@
+{
+	"link$no-close": {
+		"$attr.rel": "stylesheet",
+		"$attr.href": "https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+	},
+	"script#1": {
+		"$attr.src": "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+	},
+	"script#2": {
+		"$attr.src": "https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"
+	}
+}

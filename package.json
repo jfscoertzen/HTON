@@ -1,0 +1,27 @@
+{
+  "name": "hton",
+  "version": "1.0.0",
+  "description": "JSON to HTML Interpreter and Framework",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfscoertzen/HTON.git"
+  },
+  "author": "Stephan Coertzen",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jfscoertzen/HTON/issues"
+  },
+  "homepage": "https://github.com/jfscoertzen/HTON#readme",
+  "dependencies": {
+    "@apidevtools/json-schema-ref-parser": "^9.0.9",
+    "express": "^4.17.3",
+    "pretty": "^2.0.0"
+  }
+}

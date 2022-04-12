@@ -1,0 +1,29 @@
+{
+	"HTML": {
+		"head": {
+			"$ref": "head1.json"
+		},
+		"$style": {
+			"$ref": "style1.json"
+		},
+		"body": {
+			"h1": "Hello World!",
+			"br$no-open": "",
+			"table": {
+				"$attr.class": "table table-striped table-bordered",
+				"tr#1": {
+					"td#1": {
+						"b": "Name"
+					},
+					"td#2": {
+						"b": "Surname"
+					}
+				},
+				"tr#2": {
+					"td#1": "Stephan",
+					"td#2": "Coertzen"
+				}
+			}
+		}
+	}
+}
