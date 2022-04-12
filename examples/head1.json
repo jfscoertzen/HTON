@@ -8,5 +8,8 @@
 	},
 	"script#2": {
 		"$attr.src": "https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"
+	},
+	"script#3": {
+		"$attr.src": "//cdn.jsdelivr.net/npm/sweetalert2@11"
 	}
 }

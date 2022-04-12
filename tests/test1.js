@@ -13,6 +13,8 @@ app.get('/', (req, res) => {
     })();
 });
 
+app.use(express.static('examples'))
+
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 });

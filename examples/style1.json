@@ -1,6 +1,8 @@
 {
 	"h1": {
-		"border": "1px solid black",
-		"border-collapse": "collapse"
+		"text-decoration": "underline"
+	},
+	".center-text": {
+		"text-align": "center"
 	}
 }
